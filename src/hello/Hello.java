@@ -6,4 +6,5 @@ public class Hello {
     // change 2 completed
     // change 3 completed
     // final and 4th change completed
+    // this is the change from local IntelliJ
 }
